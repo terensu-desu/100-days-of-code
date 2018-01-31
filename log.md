@@ -20,3 +20,11 @@ https://github.com/terensu-desu/mern-comment-box
 
 **Link to work:** https://github.com/terensu-desu/shopping-cart
 
+### Day 10: January 31st, 2018
+
+**Today's Progress**: "Finished" the FCC Simon Game Challenge.
+
+**Thoughts:** Today was good but not great. I spent most of my free time at work taking notes and brainstorming the Simon Game build. I couldn't make the flow work in my head, but also a full teacher's room isn't the best place for concentrating. I worked with a Medium article and Github repo with the challenge completed to put my head on track. I used some of that in my project, so I'm not officially submitting it yet. I'll come back to it this weekend where I'll make it with React. I'll also redo my advanced algorihm challenges to completion because I know I used solutions on some of them (to be honest, fuck prime numbers but I'll figure it out). I'll also remake my calculator app since I used a tutorial for that. I have to fix my TwitchTV API challenge, too, but that I made bespoke it's just got an error.
+
+**Link to work:** https://codepen.io/terensu-desu/full/GQJrrr/
+
