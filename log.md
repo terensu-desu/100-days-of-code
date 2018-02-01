@@ -28,3 +28,11 @@ https://github.com/terensu-desu/mern-comment-box
 
 **Link to work:** https://codepen.io/terensu-desu/full/GQJrrr/
 
+## Day 11: February 1st, 2018
+
+**Today's Progress**: Finished Academind's Node.js + MongoDB Shopping Cart Tutorial
+
+**Thoughts:** Today was okay. A rough sleep meant I was wiped out after work. I did get two hours in, finishing up the Shopping Cart tutorial and touching back on the MERN Comment Box tutorial. After I learn MERN, I want to go back to the Shopping Cart, do it on my own once, and then see about doing a MERN project, maybe the comment box or a todo app. I also did some brainstorming on how to do my own Simon Game, as I really want to do that with original code.
+
+**Link to work:** https://github.com/terensu-desu/shopping-cart
+
