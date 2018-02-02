@@ -36,3 +36,10 @@ https://github.com/terensu-desu/mern-comment-box
 
 **Link to work:** https://github.com/terensu-desu/shopping-cart
 
+## Day 12: February 2st, 2018
+
+**Today's Progress**: Began reading You Don't Know JS and Understand Flaw in TwitchTV API Challenge
+
+**Thoughts:** No actual code committed today due to how busy I was. After work I was able to make it home for an hour break before going off to team-building event for my office, however I committed to only reading as I didn't feel like I had time to put in much concentration. On my way to and from the event I spent that time reading related Medium articles and YDKJS. Even after getting home around 11pm, I have kept reading and did a small bit of coding. I had a brainwave and realized what I needed to do with my TwitchTV API Challenge after some reading. I should be calling functions to check objects for keys based on some info. I'll be putting that in tomorrow, I hope. I'm going to claim it as I did learn some things, but even if this day doesn't really technically count, it doesn't break my streak. Now for some grossly overdue sleep.
+
+**Link to work:** none comitted today
