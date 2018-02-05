@@ -43,3 +43,29 @@ https://github.com/terensu-desu/mern-comment-box
 **Thoughts:** No actual code committed today due to how busy I was. After work I was able to make it home for an hour break before going off to team-building event for my office, however I committed to only reading as I didn't feel like I had time to put in much concentration. On my way to and from the event I spent that time reading related Medium articles and YDKJS. Even after getting home around 11pm, I have kept reading and did a small bit of coding. I had a brainwave and realized what I needed to do with my TwitchTV API Challenge after some reading. I should be calling functions to check objects for keys based on some info. I'll be putting that in tomorrow, I hope. I'm going to claim it as I did learn some things, but even if this day doesn't really technically count, it doesn't break my streak. Now for some grossly overdue sleep.
 
 **Link to work:** none comitted today
+
+## Day 13: February 3rd, 2018
+
+**Today's Progress**: Refactoring Algorithms and Solved TwitchTV API Issue
+
+**Thoughts:** Exactly like I considered on Day 12, I implemented a solution to my TwitchTV API challenge that allowed for me to take data from two API calls and condense them into one based on some shared data (name of the channel). It was an awesome feeling to put that into work. Where at one time I was frustrated and annoyed that their API works in such a way, now I know I can work with set ups like that! Go me!
+
+**Link to work:** https://codepen.io/terensu-desu/full/KZWjjZ/
+
+## Day 14: February 4th, 2018
+
+**Today's Progress**: Continue You Don't Know JS and Refactoring Algorithms
+
+**Thoughts:** I did try some coding today with the Simon Game, this time through Reactjs. It was coming along but I kept finding myself writing similar code to the solution I saw last week. Going to give it a few days. Went off to keep refactoring the algorithms instead and do some reading with YDKJS to hopefully shed some light on what other approaches I can take to the challenge.
+
+**Link to work:** none comitted today
+
+## Day 15: February 5th, 2018
+
+**Today's Progress**: Continue with YDKJS and Refactoring Algorithms
+
+**Thoughts:** Not a great day. I got to studying a little later than usual but I was starting off decently. I was refactoring algorithms and things weren't so bad until I hit the regex challenge on FreeCodeCamp called "Spinal tap." I won't lie, I really hate regex. I haven't attempted to learn it yet, but that's because I haven't run into a real world problem where I felt it would solve it. That's really how I get to grip on things the best - real world stuff. What "Spinal tap" told me is that I will just have to take the loss on that challenge and move on because it's far too frustrating to solve without regex and regex is pretty deep and will take a full detour to understand. Seriously, fuck that challenge. Hopefully in the next version of FCC they'll drop it for something else or change the tests for it. 
+
+On the bright side, during the train ride to work in the morning I read YDKJS some more and believe I have found a solution to the Simon Game challenge. Originally I tried to run a for-loop that used a setTimeout call to light up the game buttons. Well I learned more about closure so I'll see if I can properly use closure around that loop to execute that code.
+
+**Link to work:** none comitted today
