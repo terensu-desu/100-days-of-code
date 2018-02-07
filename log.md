@@ -69,3 +69,11 @@ https://github.com/terensu-desu/mern-comment-box
 On the bright side, during the train ride to work in the morning I read YDKJS some more and believe I have found a solution to the Simon Game challenge. Originally I tried to run a for-loop that used a setTimeout call to light up the game buttons. Well I learned more about closure so I'll see if I can properly use closure around that loop to execute that code.
 
 **Link to work:** none comitted today
+
+## Day 16: February 7th, 2018
+
+**Today's Progress**: Worked on MERN Stack App - Todos
+
+**Thoughts:** Yesterday I took a day off, pretty much. I did do some reading but I wouldn't count it. I needed rest, I was falling asleep standing up at work. Today I also took a nap but this time I got up afterward and started working. I didn't want to do algorithms so I jumped into another MERN stack app guide. I like this one more than the other because the guide's code is actually legible! The other one, the comment box, is a mess with it's indentation so it's a struggle to read. I'm hoping to finish this tomorrow and begin working on migrating the Buddies project into a MERN build so we can have a real world-like project. It'll also give me the chance to work on features that I never got around to, like rating and reviewing others.
+
+**Link to work:** https://github.com/terensu-desu/mern-todo-app
