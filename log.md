@@ -77,3 +77,11 @@ On the bright side, during the train ride to work in the morning I read YDKJS so
 **Thoughts:** Yesterday I took a day off, pretty much. I did do some reading but I wouldn't count it. I needed rest, I was falling asleep standing up at work. Today I also took a nap but this time I got up afterward and started working. I didn't want to do algorithms so I jumped into another MERN stack app guide. I like this one more than the other because the guide's code is actually legible! The other one, the comment box, is a mess with it's indentation so it's a struggle to read. I'm hoping to finish this tomorrow and begin working on migrating the Buddies project into a MERN build so we can have a real world-like project. It'll also give me the chance to work on features that I never got around to, like rating and reviewing others.
 
 **Link to work:** https://github.com/terensu-desu/mern-todo-app
+
+## Day 1７: February ８th, 2018
+
+**Today's Progress**: Worked on MERN Stack App - Todos
+
+**Thoughts:** Like yesterday, I continued working on the MERN app. I didn't go very far because I wanted to split my time between that and a new Udemy course I picked up called "The Web Developer Bootcamp." I picked it up because I wanted to go over any concepts that I might have missed and also because it offers a nice guided approach to Node.js and the back-end in general. The back-end part should prove useful. Since I already know a good deal about React, Flux, and Redux, once I reach the end of this course, I should have a good solid understanding for working the front-end in all it's might with my current React knowledge and also understand how the back-end works so that I can better work with APIs. We shall see!
+
+**Link to work:** https://github.com/terensu-desu/mern-todo-app
