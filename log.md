@@ -85,3 +85,19 @@ On the bright side, during the train ride to work in the morning I read YDKJS so
 **Thoughts:** Like yesterday, I continued working on the MERN app. I didn't go very far because I wanted to split my time between that and a new Udemy course I picked up called "The Web Developer Bootcamp." I picked it up because I wanted to go over any concepts that I might have missed and also because it offers a nice guided approach to Node.js and the back-end in general. The back-end part should prove useful. Since I already know a good deal about React, Flux, and Redux, once I reach the end of this course, I should have a good solid understanding for working the front-end in all it's might with my current React knowledge and also understand how the back-end works so that I can better work with APIs. We shall see!
 
 **Link to work:** https://github.com/terensu-desu/mern-todo-app
+
+## Day 18: February 9th, 2018
+
+**Today's Progress**: Worked on Refactoring Personal Site
+
+**Thoughts:** I worked on revamping my personal website. I want to set it up in an easier to view way, where there's no React-Router in use for navigation of the important stuff. I do want to showcase smaller apps in an interesting way though. Not sure if I'll need router, probably can just do it with component lifecycle calls.
+
+**Link to work:** 
+
+## Day 19: February 10th, 2018
+
+**Today's Progress**: Worked on Developer Bootcamp
+
+**Thoughts:** Typing out these logs makes it look like I'm aimlessly bouncing around. I guess I'll come around and refocus and just start finishing the tasks I began. I have no forgotten my work, I just want to move from tutorials to building on my own to keep my mind sharp.
+
+**Link to work:** 
