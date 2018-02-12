@@ -101,3 +101,19 @@ On the bright side, during the train ride to work in the morning I read YDKJS so
 **Thoughts:** Typing out these logs makes it look like I'm aimlessly bouncing around. I guess I'll come around and refocus and just start finishing the tasks I began. I have no forgotten my work, I just want to move from tutorials to building on my own to keep my mind sharp.
 
 **Link to work:** 
+
+## Day 20: February 11th, 2018
+
+**Today's Progress**: Finished first pass on refactoring personal website and finished Simon Game
+
+**Thoughts:** Made a push today to finish work that I had begun weeks back. The Simon Game especially, because it was hounding me by being the last thing to do on FreeCodeCamp's cirriculm. I took the things I learned from You Don't Know JS and applied them to the project, allowing me to use my own code. I also finished the first pass on my personal website. I changed it to be single page, removed React Router use, and added CSS transitions for displaying my smaller app and API showcase. I plan to add more Redux use to it, add more apps and API use cases to the app showcase, and finish the Japanese translation.
+
+**Link to work:** https://terensu-desu.github.io/terence-mangram/
+
+## Day 21: February 12th, 2018
+
+**Today's Progress**: Worked on Developer Bootcamp
+
+**Thoughts:** Flew through the bootcamp course today. Warmed up with a Todo app in the morning and then pressed on through back-end throughout the day. I was already familiar with back-end, but I wanted to make sure I didn't miss anything critical so I skimmed through the lectures, stopping to refresh myself on a handful of things. Currently working on the Yelp-Camp project. I'm poised to finish the course in a day or two. I think I'll build Buddies out in a MEN app just to have something available for the team to use and work on. I'll come back and make it a MERN app later. I may also rebuild Nihon ALT with better React and Redux use since I'll know more about that soon. It can be made MERN later, too.
+
+**Link to work:** https://github.com/terensu-desu/yelp-camp
