@@ -117,3 +117,19 @@ On the bright side, during the train ride to work in the morning I read YDKJS so
 **Thoughts:** Flew through the bootcamp course today. Warmed up with a Todo app in the morning and then pressed on through back-end throughout the day. I was already familiar with back-end, but I wanted to make sure I didn't miss anything critical so I skimmed through the lectures, stopping to refresh myself on a handful of things. Currently working on the Yelp-Camp project. I'm poised to finish the course in a day or two. I think I'll build Buddies out in a MEN app just to have something available for the team to use and work on. I'll come back and make it a MERN app later. I may also rebuild Nihon ALT with better React and Redux use since I'll know more about that soon. It can be made MERN later, too.
 
 **Link to work:** https://github.com/terensu-desu/yelp-camp
+
+## Day 22: February 13th, 2018
+
+**Today's Progress**: Worked on Developer Bootcamp
+
+**Thoughts:** Slowing down on the course because it's getting into the unfamiliar territory of back-end and I want to soak it in as best as I can. I learn best through doing, though, so when the lectures come up I can have trouble staying awake. Today I fell asleep at my desk, so when I woke up an hour or so later I just went straight to bed. I did my hour and then some so it was all good, and figured I could use the rest.
+
+**Link to work:** https://github.com/terensu-desu/yelp-camp
+
+## Day 23: February 13th, 2018
+
+**Today's Progress**: Worked on Developer Bootcamp
+
+**Thoughts:** Same as yesterday minus the falling asleep. I'm just two hours or so away from finishing the course. Once I finish it, I'm going straight back to Buddies and making that a fullfledged application that Anqi can show off and can act as a baseline. I'll add React to it later, since that'll be my next project - MERN. I'll also go back to Nihon ALT, I decided. It could be a great place to add Redux, which I decided doesn't need to be a big deal in my personal website. I wonder if I can get a designer to give me tips on my website, though.
+
+**Link to work:** https://github.com/terensu-desu/yelp-camp
