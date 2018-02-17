@@ -126,10 +126,34 @@ On the bright side, during the train ride to work in the morning I read YDKJS so
 
 **Link to work:** https://github.com/terensu-desu/yelp-camp
 
-## Day 23: February 13th, 2018
+## Day 23: February 14th, 2018
 
 **Today's Progress**: Worked on Developer Bootcamp
 
 **Thoughts:** Same as yesterday minus the falling asleep. I'm just two hours or so away from finishing the course. Once I finish it, I'm going straight back to Buddies and making that a fullfledged application that Anqi can show off and can act as a baseline. I'll add React to it later, since that'll be my next project - MERN. I'll also go back to Nihon ALT, I decided. It could be a great place to add Redux, which I decided doesn't need to be a big deal in my personal website. I wonder if I can get a designer to give me tips on my website, though.
+
+**Link to work:** https://github.com/terensu-desu/yelp-camp
+
+## Day 24: February 15th, 2018
+
+**Today's Progress**: Worked on Developer Bootcamp
+
+**Thoughts:** Really had to push on this day. Left work a little later because of a staff meeting. On top of that, I had to visit my office after work which took even more time. In the end, I got so close to the finish but there was a bug hunt that really just ended up being that I spelled comments with three 'm's. That took quite a lot of time to figure out but I'm glad I ran into it. Taught me a good lesson.
+
+**Link to work:** https://github.com/terensu-desu/yelp-camp
+
+## Day 25: February 16th, 2018
+
+**Today's Progress**: Finished the Web Developer Bootcamp
+
+**Thoughts:** Finally pushed through to the end! I have the app up and running on heroku with my own little changes and felt very confident in the end. It felt great, but I am exhausted!
+
+**Link to work:** https://dry-thicket-99306.herokuapp.com/
+
+## Day 26: February 17th, 2018
+
+**Today's Progress**: Worked on Buddies v2
+
+**Thoughts:** Now that I have a solid understanding of building with Node and Express, I took that to Buddies and am now rebuilding it without React (to start with). If I can finish the bulk of this by Sunday night, I'll be really happy and call it finished pending more studying. I believe I can do it. I finished most of the leg work today, though I'm a little confused about the extra code I wrote for passport strategies. I'll have to go over it again.
 
 **Link to work:** https://github.com/terensu-desu/yelp-camp
