@@ -157,3 +157,27 @@ On the bright side, during the train ride to work in the morning I read YDKJS so
 **Thoughts:** Now that I have a solid understanding of building with Node and Express, I took that to Buddies and am now rebuilding it without React (to start with). If I can finish the bulk of this by Sunday night, I'll be really happy and call it finished pending more studying. I believe I can do it. I finished most of the leg work today, though I'm a little confused about the extra code I wrote for passport strategies. I'll have to go over it again.
 
 **Link to work:** https://github.com/terensu-desu/yelp-camp
+
+## Day 27: February 18th, 2018
+
+**Today's Progress**: Worked on Buddies v2
+
+**Thoughts:** I figured out the problem with deploying the app. I stupidly forgot to add the DATABASEURL for the mongo database to the heroku app settings. I did do that in the app locally, thinking that translated to the app on heroku but it didn't. Valuable lesson learned. The app itself is pretty feature complete for the first pass on it. You can register, log in, log in, and create a service listing.
+
+**Link to work:** https://cryptic-reaches-16936.herokuapp.com/
+
+## Day 28: February 19th, 2018
+
+**Today's Progress**: Worked on Buddies v2 a little and some algorithms
+
+**Thoughts:** Today was a depressing day but not because of coding. I didn't get around to coding until later after doing some cleaning and removal. I did a little work on Buddies v2 and then some algorithms while I watched some CSGO to cheer up. Nothing really of note today.
+
+**Link to work:** https://cryptic-reaches-16936.herokuapp.com/
+
+## Day 29: February 20th, 2018
+
+**Today's Progress**: Worked on Buddies v2
+
+**Thoughts:** Today I got a lot done. At work I snuck in an algorithm challenge and did three or four more when I got home. I think I've said it before but fuck math algorithms. I don't see how they help me understand anything and I hate that it's the only option for learning whatever that lesson topic is. Anyway, switched to Buddies v2 after and made some significant changes. While adding middleware to check if a user owns a service listing (or review), I realized that handlebars has some serious limitations since it wants to be "logicless." What that means is that one has a hard time doing checks in their templating like I tried today. I needed to check if a user was logged in AND matched the user tied to the service listing using a provided mongo method. I switched to EJS since I knew it worked, and it took a little time changing everything but luckily I caught this early in development so it wasn't any sweat. Found a nice little module to allow me to keep my layout page so I didn't have to split it into a header and footer.
+
+**Link to work:** https://cryptic-reaches-16936.herokuapp.com/
